@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void gun(void) 
 {
   printf("bang! bang!\n");
